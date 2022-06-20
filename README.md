@@ -1,10 +1,10 @@
 # Bookstore
 
 ## What
-<p>This is a simple project which I did following a Tutorial from Deanin YouTube channel.</p>
+This is a simple project which I did following the tutorial [Setup A Ruby on Rails 7 API With React JS](https://www.youtube.com/watch?v=sh4WrNGDvQM) from Deanin YouTube channel.
 
 ## Why
-<p>Added this to GitHub to make it easier to keep track of future changes I would make to this project while I continue learning React.</p>
+Added this to GitHub to make it easier to keep track of future changes I would make to this project while I continue learning React.
 
 ## Dependencies
 * Ruby version used
